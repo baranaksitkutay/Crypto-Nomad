@@ -1,6 +1,7 @@
 # Crypto-Nomad
 We are working to connect our home page with mint contract, work in progress.
-
+Sunum:
+https://docs.google.com/presentation/d/1k-vxA8Zhqg_s5lz8ReCJkZkjRcYbXswqbXh0qsPgT3Q/edit?usp=sharing
 For Main Page:
 - yarn create next-app -e https://github.com/emreaksitkutay/Crypto-Nomad
 - yarn dev
