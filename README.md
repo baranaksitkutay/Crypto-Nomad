@@ -1,6 +1,9 @@
 # Crypto-Nomad
 We are working to connect our home page with mint contract, work in progress.
+
+
 ![alt text]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1144380746933477490/1216799180282925126/logo.png?ex=6601b38b&is=65ef3e8b&hm=3a6fe5eaa9e536bb139918327b3a248ee505fca7b02ef73c8a79db319cacfbd0&))
+
 Sunum:
 https://docs.google.com/presentation/d/1k-vxA8Zhqg_s5lz8ReCJkZkjRcYbXswqbXh0qsPgT3Q/edit?usp=sharing
 
